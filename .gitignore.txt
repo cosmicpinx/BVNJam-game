@@ -11,8 +11,8 @@ ehthumbs_vista.db
 
 
 
-cache/
-saves/
+game/cache
+game/saves
 
 
 *.com
