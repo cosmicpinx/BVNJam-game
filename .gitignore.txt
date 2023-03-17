@@ -1,0 +1,34 @@
+# macOS-related files
+.DS_Store 
+.AppleDouble 
+.LSOverride
+# Windows-related files 
+Thumbs.db 
+Thumbs.db:encryptable 
+ehthumbs.db 
+ehthumbs_vista.db 
+[Dd]esktop.ini
+
+
+
+cache/
+saves/
+
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+*.rpyc
+*.rpymc
+*.pyc
+*.pyo
+
+
+log.txt
+errors.txt
+traceback.txt
+files.txt
